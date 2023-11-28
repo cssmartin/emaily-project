@@ -1,5 +1,3 @@
-//dev.js - don't commit this
-
 module.exports = {
   googleclientID: process.env.GOOGLE_CLIENT_ID,
   googleClientSecret: process.env.GOOGLE_CLIENT_SECRET,
